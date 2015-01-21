@@ -11,6 +11,7 @@ package org.upc.logistic.bean;
  * @author USUARIO
  */
 public class User {
+    
     private String username;
     private String password;
 
